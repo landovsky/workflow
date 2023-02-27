@@ -1,0 +1,1 @@
+Interactor::Context.include InteractorContextExtension
