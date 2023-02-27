@@ -4,6 +4,7 @@ PATH
     workflow (0.1.0)
       dry-validation (= 1.10.0)
       interactor (~> 3.0)
+      zeitwerk (~> 2.6)
 
 GEM
   remote: https://rubygems.org/
