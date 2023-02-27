@@ -2,7 +2,6 @@ PATH
   remote: .
   specs:
     workflow (0.1.0)
-      dry-schema (= 1.10.2)
       dry-validation (= 1.8.1)
       interactor (~> 3.0)
 
