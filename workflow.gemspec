@@ -14,7 +14,8 @@ Gem::Specification.new do |spec|
 
   spec.metadata['allowed_push_host'] = "TODO: Set to 'http://mygemserver.com'"
 
-  spec.add_dependency 'dry-validation', '1.10.0'
+  spec.add_dependency 'dry-schema', '1.10.2'
+  spec.add_dependency 'dry-validation', '1.8.1'
   spec.add_dependency 'interactor', '~> 3.0'
 
   spec.add_development_dependency 'pry'
